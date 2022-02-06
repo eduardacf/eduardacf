@@ -1,6 +1,6 @@
  <h2>👋 Hey there, I’m Eduarda Ferreira</h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="190">
 
 - 💻 *Formada em Análise e Desenvolvimento de sistemas pela Uniritter - RS* 
 -  👩🏿‍💻 *Backend developer no sicredi 💚*
