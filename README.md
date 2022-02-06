@@ -40,6 +40,6 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
  </h4> 
 
 
-![Snake animation](https://github.com/eduardacf/Eduarda-Ferreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eduardacf/eduardacf/blob/output/github-contribution-grid-snake.svg)
 
  </div>
