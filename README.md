@@ -5,7 +5,6 @@
 - 💻 *Formada em Análise e Desenvolvimento de sistemas pela Uniritter - RS* 
 -  👩🏿‍💻 *Backend developer no sicredi 💚*
 -  💬 *Pronomes: She/Her*
-- 📈 *Speaking in English - Basic/intermediary*
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
  
