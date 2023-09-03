@@ -3,6 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="190">
 
 -  👩🏿‍💻 Quality Engineer @[Sicredi](https://www.sicredi.com.br/home/) 💚
+-  🔭 Atualmente trabalho com testes manuais/funcionais e automatizados.
 -  🚀 Formada em Análise e Desenvolvimento de Sistemas.
 -  💬 Pronomes: She/Her
 -  🌱 Em constante aprendizado
