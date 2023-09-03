@@ -1,11 +1,11 @@
- <h1>Olá 👋 </h1>
+ <h1>😊Oii, sou a Duda!!!  </h1>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="190">
 
 ## Meu nome é Eduarda Ferreira, mas podem me chamar de Duda ...
 
 -  👩🏿‍💻 Quality Engineer @[Sicredi](https://www.sicredi.com.br/home/) 💚
--  💻 Formada em Análise e Desenvolvimento de sistemas pela Uniritter - RS
+-  🚀 Formada em Análise e Desenvolvimento de Sistemas.
 -  💬 Pronomes: She/Her
 -  🌱 Em constante aprendizado
 
