@@ -30,16 +30,4 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
  
-
-<h4 align="center"> 
- <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> +
- <img align="center" alt"spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/> +
- <img align="center" alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> +
- <img align="center" alt"MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  +
-  <img align="center" alt"MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"/>  
- </h4> 
-
-
-![Snake animation](https://github.com/eduardacf/eduardacf/blob/output/github-contribution-grid-snake.svg)
-
  </div>
