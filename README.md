@@ -13,7 +13,7 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
  
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardacf&theme=blue-white)](https://github.com/eduardacf/github-readme-stats)
   
  </div>
   
