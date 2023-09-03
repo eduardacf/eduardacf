@@ -1,6 +1,8 @@
- <h2>Olá 👋 </h2>
+ <h1>Olá 👋 </h1>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="190">
+
+## Meu nome é Eduarda Ferreira, mas podem me chamar de Duda ...
 
 - 💻 *Formada em Análise e Desenvolvimento de sistemas pela Uniritter - RS* 
 -  👩🏿‍💻 *Backend developer no sicredi 💚*
@@ -8,11 +10,11 @@
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
  
-  <div align="center">
-  <a href="https://github.com/eduardacf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardacf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardacf&layout=compact&langs_count=7&theme=radical"/>
-  </div></a>
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
   
  ------
   <div align="center" text="center">
