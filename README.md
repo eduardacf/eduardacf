@@ -10,7 +10,7 @@
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   
  ------
   <div align="center" text="center">
