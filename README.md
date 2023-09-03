@@ -5,7 +5,7 @@
 ## Meu nome é Eduarda Ferreira, mas podem me chamar de Duda ...
 
 - 💻 *Formada em Análise e Desenvolvimento de sistemas pela Uniritter - RS* 
--  👩🏿‍💻 *Quality Engineer @[Sicredi]([https://www.itau.com.br/](https://www.sicredi.com.br/home/)) 💚*
+-  👩🏿‍💻 *Quality Engineer @[Sicredi](https://www.sicredi.com.br/home/) 💚*
 -  💬 *Pronomes: She/Her*
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
