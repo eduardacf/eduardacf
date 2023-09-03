@@ -6,7 +6,6 @@
 -  👩🏿‍💻 *Backend developer no sicredi 💚*
 -  💬 *Pronomes: She/Her*
 - 📈 *Speaking in English - Basic/intermediary*
-- 🚀 *Loading ... exchange in London September/2022*
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
  
